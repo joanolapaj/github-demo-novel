@@ -1,8 +1,5 @@
   Song - Artist
   ==============
-  SOS - Abba
-  One of us - Abba
-  He stoped loving her today - George jones
-  The race is one - George jones
-  My sweet love - George Harrison
   What is Live - George Harrison
+  music 1 - bjorn
+  music 2 - bjorn
